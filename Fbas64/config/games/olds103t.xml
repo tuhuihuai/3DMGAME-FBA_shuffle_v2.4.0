@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FBA shuffle game config file-->
+<gameconfig version="2.4.0">
+	<game name="olds103t">
+		<option analog="256" cpu="256" autofire-delay="3">
+			<custom type="P1Custom" value1="0" value2="0" value3="0" value4="0" />
+			<custom type="P2Custom" value1="0" value2="0" value3="0" value4="0" />
+			<custom type="P3Custom" value1="0" value2="0" value3="0" value4="0" />
+			<custom type="P4Custom" value1="0" value2="0" value3="0" value4="0" />
+		</option>
+		<input>
+			<port type="p1 coin" switch="6" />
+			<port type="p1 start" switch="2" />
+			<port type="p1 up" switch="17" />
+			<port type="p1 down" switch="31" />
+			<port type="p1 left" switch="30" />
+			<port type="p1 right" switch="32" />
+			<port type="p1 fire 1" switch="35" />
+			<port type="p1 fire 2" switch="36" />
+			<port type="p1 fire 3" switch="37" />
+			<port type="p1 fire 4" switch="38" />
+			<port type="p2 coin" switch="7" />
+			<port type="p2 start" switch="3" />
+			<port type="p2 up" switch="16386" />
+			<port type="p2 down" switch="16387" />
+			<port type="p2 left" switch="16384" />
+			<port type="p2 right" switch="16385" />
+			<port type="p2 fire 1" switch="16512" />
+			<port type="p2 fire 2" switch="16513" />
+			<port type="p2 fire 3" switch="16514" />
+			<port type="p2 fire 4" switch="16515" />
+			<port type="p3 coin" switch="8" />
+			<port type="p3 start" switch="4" />
+			<port type="p3 up" switch="16642" />
+			<port type="p3 down" switch="16643" />
+			<port type="p3 left" switch="16640" />
+			<port type="p3 right" switch="16641" />
+			<port type="p3 fire 1" switch="16768" />
+			<port type="p3 fire 2" switch="16769" />
+			<port type="p3 fire 3" switch="16770" />
+			<port type="p3 fire 4" switch="16771" />
+			<port type="p4 coin" switch="9" />
+			<port type="p4 start" switch="5" />
+			<port type="p4 up" switch="16898" />
+			<port type="p4 down" switch="16899" />
+			<port type="p4 left" switch="16896" />
+			<port type="p4 right" switch="16897" />
+			<port type="p4 fire 1" switch="17024" />
+			<port type="p4 fire 2" switch="17025" />
+			<port type="p4 fire 3" switch="17026" />
+			<port type="p4 fire 4" switch="17027" />
+			<port type="reset" switch="61" />
+			<port type="diag" switch="60" />
+			<port type="" />
+			<port type="service" switch="10" />
+			<port type="service2" switch="11" />
+			<port type="Dip A" constant="0" />
+			<port type="Dip B" constant="0" />
+			<port type="Dip C" constant="1" />
+			<macro type="P1 Button AB" switch="49" />
+			<macro type="P1 Button BC" switch="52" />
+			<macro type="P1 Button AC" switch="21" />
+			<macro type="P1 Button ABC" switch="51" />
+			<macro type="P2 Button AB" />
+			<macro type="P2 Button BC" />
+			<macro type="P2 Button AC" />
+			<macro type="P2 Button ABC" />
+			<macro type="P3 Button AB" />
+			<macro type="P3 Button BC" />
+			<macro type="P3 Button AC" />
+			<macro type="P3 Button ABC" />
+			<macro type="P4 Button AB" />
+			<macro type="P4 Button BC" />
+			<macro type="P4 Button AC" />
+			<macro type="P4 Button ABC" />
+			<macro type="P1 Custom 1" />
+			<macro type="P1 Custom 2" />
+			<macro type="P1 Custom 3" />
+			<macro type="P1 Custom 4" />
+			<macro type="P2 Custom 1" />
+			<macro type="P2 Custom 2" />
+			<macro type="P2 Custom 3" />
+			<macro type="P2 Custom 4" />
+			<macro type="P3 Custom 1" />
+			<macro type="P3 Custom 2" />
+			<macro type="P3 Custom 3" />
+			<macro type="P3 Custom 4" />
+			<macro type="P4 Custom 1" />
+			<macro type="P4 Custom 2" />
+			<macro type="P4 Custom 3" />
+			<macro type="P4 Custom 4" />
+		</input>
+	</game>
+</gameconfig>
